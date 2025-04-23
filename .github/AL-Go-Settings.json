@@ -1,5 +1,6 @@
 {
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
-  "useProjectDependencies": true
+  "useProjectDependencies": true,
+  "templateSha": "a91a50b7fa2a88d8fa0b8eab99a66b9032ac476d"
 }
